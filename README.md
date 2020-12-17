@@ -11,8 +11,8 @@
 
 ```
 apt-get install python2 -y
-pip2 install requests antidc
-
+git clone https://github.com/Azim-Vau/antidc
+cd antidc
 ```
 
 <h3>Run : antidc</h3>
