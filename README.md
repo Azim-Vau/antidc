@@ -8,9 +8,12 @@
 
 
 <h1>[~] Installation : </h1>
+
+```
 apt-get install python2 -y
 pip2 install requests antidc
 
+```
 
 <h3>Run : antidc</h3>
 
