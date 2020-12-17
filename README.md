@@ -7,9 +7,7 @@
 </p>
 
 
-<h3> [~] Installation : </h3>
+<h3>Run : antidc</h3>
 
-```
-apt-get install python2 -y
-pip2 install requests antidc
-```
+<h3>Username : AZIM-VAU</h3>
+<h3>Password : AZIM-VAU</h3>
