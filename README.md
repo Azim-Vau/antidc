@@ -7,3 +7,6 @@
 </p>
 
 
+<h3> [~] Installation : </h3>
+apt-get install python2 -y
+pip2 install requests antidc
