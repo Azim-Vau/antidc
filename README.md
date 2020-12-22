@@ -17,7 +17,7 @@ git clone https://github.com/Azim-Vau/antidc
 cd antidc
 ```
 ```
-<b>Run : antidc</b>
+Run : antidc
 ```
 
 <b>Username : AZIM-VAU</b> <br/>
