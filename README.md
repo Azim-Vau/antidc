@@ -17,7 +17,7 @@ git clone https://github.com/Azim-Vau/antidc
 cd antidc
 ```
 ```
-Run : antidc
+Run : python2 antidc
 ```
 
 <b>Username : AZIM-VAU</b> <br/>
